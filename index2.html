@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=h1, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+        /* Standard-Stile für den Light Mode */
+
+            background-color: #333;
+            color: #fff;
+        }
+        /* Dunkler Modus */
+        body.dark_light-mode {
+            background-color: #fff;
+            color: #000;
+        }
+        table, th, td {
+          border:1px solid black;
+        }
+        </style>
+</head>
+<body>
+    <button onclick="toggleDarkMode()">Dark/Light Mode umschalten</button>
+    <h1>Wishlist</h1>
+    <input id="searchField2" type="text" placeholder="search">
+    <button onclick="window.location.href = 'index.html'">Zur Seite 1</button>
+
+    <table class="table" style="width:100%">
+        <thead>
+            <tr>
+                <th>Titel</th>
+                <th>Plattform</th>
+                <th>Region</th> 
+                <th>Release</th> 
+                <th>ID</th> 
+                <th>Info Text</th> 
+            </tr>
+        </thead>
+        <tbody id="searchResults2">
+
+        </tbody>
+    </table>
+    <script src="main.js" ></script>
+    <script src="list2.js" ></script>
+</body>
+</html>

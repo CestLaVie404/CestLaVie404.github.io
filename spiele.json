@@ -1,5 +1,11 @@
 
 [
+  {
+  "name": "Star Ocean",
+  "plattform": "Playstation",
+  "rCode": 0,
+  "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
+},
 {
   "name": "Suikoden 5",
   "plattform": "Playstation 2",

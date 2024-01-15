@@ -202,7 +202,12 @@
   "rCode": 0,
   "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
 },
-
+{
+  "name": "Final Fantasy 12",
+  "plattform": "Playstation 2",
+  "rCode": 0,
+  "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
+},
 {
   "name": "Final Fantasy 10",
   "plattform": "Playstation 2",

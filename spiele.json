@@ -1,5 +1,1349 @@
 
-[
+[ 
+  {
+    "name": "Valkyre Profile",
+    "plattform": "Playstation",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Collectors Edition Complete"
+  },
+  {
+    "name": "Zelda Skyward Sword",
+    "plattform": "Wii",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Zelda Twilight Princess",
+    "plattform": "Wii",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Super Mario Galaxy 2",
+    "plattform": "Wii",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Super Mario Galaxy",
+    "plattform": "Wii",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete/Nintendo Selects"
+  },
+  {
+    "name": "Super Mario Galaxy",
+    "plattform": "Wii",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Xenoblade Chronicles",
+    "plattform": "Wii",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Tales of Symphonia Dawn of the New World",
+    "plattform": "Wii",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mario Kart Wii",
+    "plattform": "Wii",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Metroid: Other  M",
+    "plattform": "Wii",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Paper Mario Sticker Star",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Ninjago Schatten der Ronin",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Hey! Pikmin",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Yo-Kai Watch",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Animal Crossing: Happy Home Designer",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Professor Layton und die Maske der Wunder",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Fantasy Life",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "HomeTown Story",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Fire Emblem Fates: Vermächtnis",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Zelda Ocarina of Time 3D",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Zelda Tri Force Heroes",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Zelda A Link Between Worlds",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Disneys Violetta Rythmus und Musik",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Animal Crossing: New Leaf",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "SUper Mario 3D Land",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mario & Luigi: Paper Jam Bros.",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Yoshis New Island",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Super Smash Bros. for Nintendo 3DS",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Luigis Mansion 2",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mario & Luigi: Dream Team Bros.",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mario Kart 7",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Poochy & Yoshis Woolly World",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Story of Seasons",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Zelda Spirit Tracks",
+    "plattform": "Nintendo DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Dragon Quest IX Hüter des Himmels",
+    "plattform": "Nintendo DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Dragon Quest VI Wandler zwischen den Welten",
+    "plattform": "Nintendo DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Pokemon Weisse Edition",
+    "plattform": "Nintendo DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Pokemon Goldene Edition HeatrsGold",
+    "plattform": "Nintendo DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Ottifants",
+    "plattform": "Mega Drive",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Pete Sampras Tennis",
+    "plattform": "Mega Drive",
+    "rCode": 3,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mega Games I",
+    "plattform": "Mega Drive",
+    "rCode": 3,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Golden Axe II",
+    "plattform": "Mega Drive",
+    "rCode": 3,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Box vorhanden, Cartridge fragwürdige Zustand"
+  },
+  {
+    "name": "Call of Duty Black Ops II",
+    "plattform": "WiiU",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Hyrule Warriors",
+    "plattform": "WiiU",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Kirby und der Regenbogen Pinsel",
+    "plattform": "WiiU",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mario Tennis: Ultra Smash",
+    "plattform": "WiiU",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Paper Mario Color Splash",
+    "plattform": "WiiU",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Super Mario 3D World",
+    "plattform": "WiiU",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Ninja Gaiden 3 Razors Edge",
+    "plattform": "WiiU",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+{
+  "name": "007 Ein Quantum Trost",
+  "plattform": "Wii",
+  "rCode": 0,
+  "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+},
+  {
+    "name": "Super Smash Bros. Brawl",
+    "plattform": "Wii",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "New Super Nario Bros. Wii",
+    "plattform": "Wii",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mario Kart 8",
+    "plattform": "WiiU",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Darksiders Warmastered Edition",
+    "plattform": "WiiU",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Tom Clancys Splinter Cell Blacklist",
+    "plattform": "WiiU",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "ZombiU",
+    "plattform": "WiiU",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Tales of Symphonia",
+    "plattform": "GameCube",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Zelda The Wind Waker",
+    "plattform": "GameCube",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Luigis Mansion",
+    "plattform": "GameCube",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Star Wars Rogue Leader",
+    "plattform": "GameCube",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Super Mario Sunshine",
+    "plattform": "GameCube",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Wave Race Blue Storm",
+    "plattform": "GameCube",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Metroid Prime",
+    "plattform": "GameCube",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Metroid Prime",
+    "plattform": "GameCube",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":" Complete / Players Choice"
+  },
+  {
+    "name": "Wii Sports",
+    "plattform": "Wii",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur CD"
+  },
+  {
+    "name": "Super Mario Odyssey",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Super Smash Bros. Ultimate",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Zelda Breath of the Wild",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Metroid Dredd",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Xenobalde Chronicles 2",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Pokemon Schild",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Super Mario Maker 2",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Xenoblade Chronicles 3",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Zelda Tears of the Kingdom",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Trials of Mana",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Collection of Mana",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Phantasy Star Universe",
+    "plattform": "Playstation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Shadow Hearts Covenant",
+    "plattform": "Playstation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Sonic Adventure",
+    "plattform": "Dreamcast",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Power Stone",
+    "plattform": "Dreamcast",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Tomb Raider IV The Last Revelation",
+    "plattform": "Dreamcast",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Die Siedler",
+    "plattform": "PC",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
+  },
+  {
+    "name": "Eternal Champions",
+    "plattform": "Mega Drive",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Altered Beast",
+    "plattform": "Mega Drive",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Art of Fighting",
+    "plattform": "Mega Drive",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Mirros Edge",
+    "plattform": "XBOX 360",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Project Zero",
+    "plattform": "XBOX",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },   
+  {
+  "name": "Fable",
+  "plattform": "XBOX",
+  "rCode": 0,
+  "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+},
+  {
+    "name": "Xenosage Freakz",
+    "plattform": "Playstation 2",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Xenosage III",
+    "plattform": "Playstation 2",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Xenosage II",
+    "plattform": "Playstation 2",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Xenosage I",
+    "plattform": "Playstation 2",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Pokemon Blau",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Pokemon Rot",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Donkey Kong",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Spider Man 2",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Kirby Dream Land",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Super Mario Land 2",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Gargoyles Quest",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "TinyToon Adventures",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Probotector 2",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Donkey Kong Land",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Alfred Chicken",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Tetris Blast",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Zelda Links Awakening DX",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Disneys Das Dschungelbuch",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+  "name": "Kirby Pinball Land",
+  "plattform": "Game Boy",
+  "rCode": 0,
+  "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+},
+  {
+    "name": "Ducktales",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "F1 Race",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Tetris",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Solar Striker",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Alleyway",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Garfield Labyrinth",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Kirbys Dreamland 2",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mega Man Dr Wilys Rache",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mega Man III",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "F-Zero Maximum Velocity",
+    "plattform": "Game Boy Advance",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mario Kart Super Circuit",
+    "plattform": "Game Boy Advance",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Super Mario Advance",
+    "plattform": "Game Boy Advance",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Sword of Mana",
+    "plattform": "Game Boy Advance",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Golden Sun",
+    "plattform": "Game Boy Advance",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Wind Commander Prophecy",
+    "plattform": "Game Boy Advance",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Space Invaders",
+    "plattform": "Atari 2600",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Video Pinball",
+    "plattform": "Atari 2600",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Asteroids",
+    "plattform": "Atari 2600",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Vanguard",
+    "plattform": "Atari 2600",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Enduro",
+    "plattform": "Atari 2600",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "River Raid",
+    "plattform": "Atari 2600",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Galaxian",
+    "plattform": "Atari 2600",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Boulder Dash",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Verpackung"
+  },
+  {
+    "name": "Tennis",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Verpackung"
+  },
+  {
+    "name": "Wario Land Super Mario Land 3",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Verpackung"
+  },
+  {
+    "name": "Mario Picross",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Verpackung"
+  },
+  {
+    "name": "Asterix",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Verpackung"
+  },
+  {
+    "name": "Wario Blast",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Verpackung"
+  },
+  {
+    "name": "Yoshis Island",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Kirbys Dream Course",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "The Magical Quest Starring Mickey Mouse",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Super Ghouls n Ghosts",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Brandish",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Bahamut Lagoon",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Romancing Saga 3",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Romancing Saga 2",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Romancing Saga",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Tactics Ogre Lets Cling Together",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Chrono Trigger",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Final Fantasy 5",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Secret of Mana 2 / Seiken Densetsu 3",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "The 7th Saga",
+    "plattform": "SNES",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Sparkster",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mega Man X",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mega Man X 2",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Stunt Racew FX",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Super Mario Kart",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Pacman 2 The new Adventure",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Super Mario Allstars",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Asterix & Obelix",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Plok",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mario is Missing",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Zelda A Link to the Past",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "NBA PRo 98",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Zelda Ocarina of Time",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Star Wars Shadow of the Empire",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Command & Conquer",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "F1 World Gran Prix",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Turok Dinasaur Hunter",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Banjo Kazooie",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mario Party",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "F1 Pole Position",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Blast Corps",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Tetris & Dr Mario",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Starwing",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Zool",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Die Schlümpfe",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Pacattack",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Die Schlümpfe Reisen um die Welt",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Ys 4",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Wanderers From Ys 3",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Wing Commander",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Final Fantasy 6",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Final Fantasy 5",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Secret of Mana  / Seiken Densetsu 2",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Terranigma",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Tales of Phantasia",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Super Putty",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Mother 2",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Donkey Kong Country 3",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Actraiser 2",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Lufia",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Castlevania IV",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Soul Blader",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Illusion of Time",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "F-Zero",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Breath of Fire 2",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Breath of Fire",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Metroid",
+    "plattform": "NES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Zelda II The Adventure of Link",
+    "plattform": "NES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Super Mario Bros 2",
+    "plattform": "NES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Ducktales",
+    "plattform": "NES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Set Super Mario Bros, Tetris, Nintendo World Cup",
+    "plattform": "NES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Super Mario Bros 3",
+    "plattform": "NES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Kirbys Adventure",
+    "plattform": "NES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Cartridge und ANleitung"
+  },
+  {
+    "name": "Pokemon Stadium",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Goldeneye 007",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Final Fantasy III",
+    "plattform": "SNES",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Lagoon",
+    "plattform": "SNES",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Lufia & the fortress of Doom",
+    "plattform": "SNES",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Tecmo Secret of the Stars",
+    "plattform": "SNES",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Dragon Quest 1 & 2",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Dragon Quest 3",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Dragon Quest 5",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Dragon Quest 6",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
+  },
+  {
+    "name": "Mega Man 4",
+    "plattform": "NES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Mit Packung"
+  },
+  {
+    "name": "Mega Man 2",
+    "plattform": "NES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Mit Packung"
+  },
+  {
+    "name": "Star Wars Episode I Racer",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Black Box"
+  },
+  {
+    "name": "Super Mario 64",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
+  },
+  {
+    "name": "Wave Race 64",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
+  },
+  {
+    "name": " Zelda Majoras Mask",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
+  },
+  {
+    "name": "Mario Kart 64",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
+  },
+  {
+    "name": "Turok 2 Seeds of Evil",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
+  },
+  {
+    "name": "Jet Force Gemini",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
+  },
+  {
+    "name": "Pilot Wings 64",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
+  },
+  {
+    "name": "F-Zero X",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
+  },
+  {
+    "name": "Super Mario Maker",
+    "plattform": "WiiU",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
+  },
 {
   "name": "Star Ocean",
   "plattform": "Playstation",
@@ -154,7 +1498,7 @@
   "name": "Illusion of Time",
   "plattform": "SNES",
   "rCode": 0,
-  "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
+  "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
 },
 {
   "name": "Mystic Quest Legend",
@@ -172,14 +1516,14 @@
   "name": "Terranigma",
   "plattform": "SNES",
   "rCode": 0,
-  "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
+  "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
 },
 
 {
   "name": "Super Mario World",
   "plattform": "SNES",
   "rCode": 0,
-  "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
+  "releaseDate": "N/A","id": 0,"done": true,"infotext":"Nur Cartridge"
 },
 
 {
@@ -202,12 +1546,7 @@
   "rCode": 0,
   "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
 },
-{
-  "name": "Final Fantasy 12",
-  "plattform": "Playstation 2",
-  "rCode": 0,
-  "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
-},
+
 {
   "name": "Final Fantasy 10",
   "plattform": "Playstation 2",

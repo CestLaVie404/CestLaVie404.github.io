@@ -1,5 +1,19 @@
 
 
+
+document.addEventListener('DOMContentLoaded', function(){
+  var buttonToggleDarkLight = document.getElementById('dl-mode');
+  buttonToggleDarkLight.addEventListener('click',function(){
+    toggleDarkMode();    //alert('ping');
+  })
+
+  var buttonSwitchSite2 = document.getElementById('site2');
+  buttonSwitchSite2.addEventListener('click',function(){
+    switchSite('index2.html');
+  })
+
+})
+
 /*
 
 // Erstelle ein neues Eintragsobjekt
@@ -118,38 +132,63 @@ fetch('spiele.json')
 
       }
 
-    function updateSearchTable(searchTerm,tb) {
+      function updateSearchTable(searchTerm,_game) {
 
-    
-        const tableElem = document.getElementById("searchResults");
         let html = "";
-      
+
         var searchMask = new RegExp(searchTerm,'i');
+
+       
       
-        for(let i =0; i<=tb.length-1;i++){
-          if(searchTerm){
+        for(let i =0; i<=_game.length-1;i++)
+        {
+
+
+
+          if(searchTerm)
+          {
              if(
-              searchMask.test(tb[i].name) 
-              || searchMask.test(tb[i].plattform) 
-              || searchMask.test(tb[i].rCode) 
-              || searchMask.test(tb[i].releaseDate) 
+              searchMask.test(_game[i].name) 
+              || searchMask.test(_game[i].plattform) 
+              || searchMask.test(_game[i].rCode) 
+              || searchMask.test(_game[i].releaseDate) 
               ) 
-                  { html+=tableLine(tb[i].id,tb);} 
+              { html+=tableLine(_game[i].id,_game);} 
           }
-          else{  
-              html+=tableLine(i,tb);
-          }
+          else
+          {  
+             html+=tableLine(i,_game);
           }
 
+ 
+
+        }
+
+          return html;
+      }
+
+
+
+    function update(searchTerm,_game) {
+
+
+
+      const tableElem = document.getElementById("searchResults");
+      let html = "";
+
+
       
-        tableElem.innerHTML = html;
+      tableElem.innerHTML = updateSearchTable(searchTerm,_game);
+   
+  
+
       
     
        
       }
       
        
-      document.getElementById("searchField").addEventListener("input", (event) => updateSearchTable(event.target.value,game));
-      updateSearchTable("",game);
+      document.getElementById("searchField").addEventListener("input", (event) => update(event.target.value,game));
+      update("",game);
      
   

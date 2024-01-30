@@ -1,5 +1,318 @@
 
-[ 
+[  
+  {
+    "name": "Dragon QUest XI Echoes of an Elusive Age S Definitive Edition",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Chrono Cross",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  }, 
+  {
+    "name": "GTA 5",
+    "plattform": "Playstation 3",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mass Effect 2",
+    "plattform": "Playstation 3",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Gran Turismo 5",
+    "plattform": "Playstation 3",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Fallout 3 Game of the year edition",
+    "plattform": "Playstation 3",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Crysis 2",
+    "plattform": "Playstation 3",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "The Elder Scroll IV Oblivion. SPiel des Jahres Edition",
+    "plattform": "Playstation 3",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Final Fantasy 13",
+    "plattform": "Playstation 3",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Diablo 3 Ultimate Evil Edition",
+    "plattform": "Playstation 4",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "The Evil Within",
+    "plattform": "Playstation 4",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Killzone Shadow Fall",
+    "plattform": "Playstation 4",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Knack",
+    "plattform": "Playstation 4",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Horizon Zero Dawn",
+    "plattform": "",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Mittekerde Mordors Schatten",
+    "plattform": "Playstation 4",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "inFamous Second Sun",
+    "plattform": "Playstation 4",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Final Fantay 7 Remake",
+    "plattform": "Playstation 4",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Fifa 17",
+    "plattform": "Playstation 4",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Fifa 19",
+    "plattform": "Playstation 4",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Nier:Automata",
+    "plattform": "Playstation 4",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Shadow of the Colossus",
+    "plattform": "Playstation 4",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Bloodborne",
+    "plattform": "Playstation 4",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "The Last of Us remastered",
+    "plattform": "Playstation 4",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Final Fantasy 10-2",
+    "plattform": "Playstation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+
+  {
+    "name": "Dragon Quest Die Reise des verwunschenen Königs",
+    "plattform": "Playstation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "F1 2001",
+    "plattform": "Playstation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Formel Eins 2001",
+    "plattform": "Playstation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Final Fantasy 12",
+    "plattform": "Playstation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Ridge Racer",
+    "plattform": "Playstation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Summoner",
+    "plattform": "Playstation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Baldurs Gate: Dark Alliance",
+    "plattform": "Playstation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+  "name": "Project Zero",
+  "plattform": "Playstation 2",
+  "rCode": 0,
+  "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+},
+  {
+    "name": "Gran Turismo 7",
+    "plattform": "Playstation 5",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Nioh Collection",
+    "plattform": "Playstation 5",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Returnal",
+    "plattform": "Playstation 5",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+{
+  "name": "Horizon Forbidden West",
+  "plattform": "Playstation 5",
+  "rCode": 0,
+  "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+},
+  {
+    "name": "Rainbow Six Extraction",
+    "plattform": "XBOX One",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Tomb Raider Definitive Edition",
+    "plattform": "XBOX One",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Need for Speed Rivals",
+    "plattform": "XBOX One",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "The Witcher 2",
+    "plattform": "XBOX 360",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Halo",
+    "plattform": "XBOX",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Seiken Densetsu Heroes of Mana",
+    "plattform": "Nintendo DS",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Seiken Densetsu Children of Mana",
+    "plattform": "Nintendo DS",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Final Fantasy XII Revenant Wings",
+    "plattform": "Nintendo DS",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Final Fantasy Tactics A3 Grimoire of the Rift",
+    "plattform": "Nintendo DS",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Final Fantasy Crystal Chronicle Ring of Fates",
+    "plattform": "Nintendo DS",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Final Fantasy Crystal Chronicle Echoes of Time",
+    "plattform": "Nintendo DS",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Final Fantasy Gaiden Kikari no 4 Senshi",
+    "plattform": "Nintendo DS",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Final Fantsy IV",
+    "plattform": "Nintendo DS",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Final Fantasy III",
+    "plattform": "Nintendo DS",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Final Fantasy Tactics",
+    "plattform": "Playstation",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Chrono Cross",
+    "plattform": "Playstation",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
   {
     "name": "Valkyre Profile",
     "plattform": "Playstation",

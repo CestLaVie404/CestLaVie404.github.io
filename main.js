@@ -4,6 +4,12 @@ function toggleDarkMode() {
   document.body.classList.toggle('dark_light-mode');
 }
 
+function switchSite(site) {
+  window.location.href = site;
+}
+
+
+
 function makeEntry(name, plattform,rCode,releaseDate,id,done,infotext) {
     return {
       name: name,

@@ -1,3 +1,17 @@
+document.addEventListener('DOMContentLoaded', function(){
+  var buttonToggleDarkLight = document.getElementById('dl-mode');
+  buttonToggleDarkLight.addEventListener('click',function(){
+    toggleDarkMode();    //alert('ping');
+  })
+
+  var buttonSwitchSite1 = document.getElementById('site1');
+  buttonSwitchSite1.addEventListener('click',function(){
+    switchSite('index.html');
+  })
+
+})
+
+
 fetch('wishlist.json')
 .then(response => response.json())
 .then(data => {

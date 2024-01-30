@@ -1,12 +1,46 @@
 
 [
+  {
+    "name": "Atelier Ryza 2",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
+    "name": "Atelier Ryza 1",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
+    "name": "Xenoblade Chronicles 2 Torna",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
+    "name": "Tales of Vesperia",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
+    "name": "Shin Megami tensei V",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
+    "name": "Star Ocean Second Story R",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
     {
       "name": "Radiant Historia",
       "plattform": "3ds",
       "rCode": 0,
-      "releaseDate": "N/A",
-      "id": 0,
-      "infotext": "test"
+      "releaseDate": "N/A","id": 0,"infotext": "test"
     },
 
     {

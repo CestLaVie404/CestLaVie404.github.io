@@ -1,6 +1,42 @@
 
 [
   {
+    "name": "Beyond the Beyond",
+    "plattform": "Playstatin 1",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
+    "name": "Arc the Lad Teil 1-2-3",
+    "plattform": "Sega Saturn",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
+    "name": "Legend of Dragoon",
+    "plattform": "Playstation 1",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
+    "name": "Lunar 2 Eternal Blue",
+    "plattform": "Sega Saturn",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
+    "name": "Lunar Silver Star Story",
+    "plattform": "Sega Saturn",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
+    "name": "Langrisser Teil 1-2-3",
+    "plattform": "Sega Saturn",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
     "name": "Atelier Ryza 2",
     "plattform": "Switch",
     "rCode": 0,

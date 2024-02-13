@@ -1,7 +1,43 @@
 
-[  
+[      
   {
-    "name": "Dragon QUest XI Echoes of an Elusive Age S Definitive Edition",
+  "name": "Ys Origins",
+  "plattform": "Switch",
+  "rCode": 0,
+  "releaseDate": "N/A","id": 0,"infotext": "test"
+},
+   {
+  "name": "Persona 5 Royal",
+  "plattform": "Switch",
+  "rCode": 0,
+  "releaseDate": "N/A","id": 0,"infotext": "test"
+},
+  {
+  "name": "Star Ocean Second Story R",
+  "plattform": "Switch",
+  "rCode": 0,
+  "releaseDate": "N/A","id": 0,"infotext": "test"
+},
+  {
+    "name": "Shin Megami tensei V",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
+    "name": "Xenoblade Chronicles 2 Torna",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
+    "name": "Star Ocean",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
+  },
+  {
+    "name": "Dragon Quest XI Echoes of an Elusive Age S Definitive Edition",
     "plattform": "Switch",
     "rCode": 0,
     "releaseDate": "N/A","id": 0,"done": true,"infotext":"Complete"
@@ -1658,7 +1694,7 @@
     "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"
   },
 {
-  "name": "Star Ocean",
+  "name": "Star Ocean The Second Story",
   "plattform": "Playstation",
   "rCode": 0,
   "releaseDate": "N/A","id": 0,"done": true,"infotext":"N/A"

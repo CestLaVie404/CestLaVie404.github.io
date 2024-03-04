@@ -1,5 +1,95 @@
 
-[      
+[ 
+  {
+    "name": "Bravely Default 2",
+    "plattform": "Switch",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Live A Live",
+    "plattform": "Switch",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Triangle Strategy",
+    "plattform": "Switch",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Tactics Ogre: Reborn",
+    "plattform": "Switch",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Atelier Sophie 2: The Alchemist of the Mysterios Dream",
+    "plattform": "Switch",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "CrossCode",
+    "plattform": "Switch",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Ni No Kuni 2: Revenant Kingdom",
+    "plattform": "Switch",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"infotext": "PRINCE's Edition"
+  },
+  {
+    "name": "Suikoden V",
+    "plattform": "Playstation 2",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"infotext": "Adult Rating"
+  },
+  {
+    "name": "Tales of Xillia",
+    "plattform": "Playstation 3",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Day One Edition"
+  },
+  {
+    "name": "Valkyre Profil 2",
+    "plattform": "Playstation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
+    "name": "Final Fantasy Chrystal Chronicles The Crystal Bearers",
+    "plattform": "Playstation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
+    "name": "Breath of Fire Dragon Quarter",
+    "plattform": "PLaystation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+{
+  "name": "Xenosaga II",
+  "plattform": "Playstation 2",
+  "rCode": 0,
+  "releaseDate": "N/A","id": 0,"infotext": "test"
+},
+  {
+    "name": "Ni No Kuni: Der Fluch der Weissen Königin",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
+  {
+    "name": "Mystic Quest",
+    "plattform": "Game Boy",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "test"
+  },
   {
   "name": "Ys Origins",
   "plattform": "Switch",

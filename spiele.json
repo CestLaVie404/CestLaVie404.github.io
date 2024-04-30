@@ -1,45 +1,315 @@
 
-[ 
+[   
+  {
+    "name": "Final Fantasy I-VI Collection",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Japanische Box"
+  }, 
+  {
+    "name": "Legend of Dragoon",
+    "plattform": "Playstation",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Atelier Elli",
+    "plattform": "Playstation",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Parasite Eve",
+    "plattform": "Playstation",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Tales of Destiny",
+    "plattform": "Playstation",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Arc the Lad 2",
+    "plattform": "Playstation",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Tales of Phantasia",
+    "plattform": "Playstation",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Wild Arms 2",
+    "plattform": "Playstation",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Wild Arms",
+    "plattform": "Playstation",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+  "name": "Saga Frontier 2",
+  "plattform": "Playstation",
+  "rCode": 2,
+  "releaseDate": "N/A","id": 0,"infotext": "Complete"
+},
+  {
+    "name": "Saga Frontier",
+    "plattform": "Playstation",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "The Lgend of Heroes Trials of Azure",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Ys VIII Lacrimosa of Dana",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Octopath Traveler II",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Lost Odyssey",
+    "plattform": "XBOX 360",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },    
+  {
+    "name": "Blue Dragon",
+    "plattform": "XBOX 360",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Eternal SOnata",
+    "plattform": "XBOX 360",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Spiel+Box"
+  },  
+   {
+  "name": "Final Fantasy II",
+  "plattform": "Game Boy",
+  "rCode": 1,
+  "releaseDate": "N/A","id": 0,"infotext": "Complete"
+},  
+  {
+    "name": "Glover",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Nur Cartridge"
+  }, 
+  {
+  "name": "Donkey Kong 64",
+  "plattform": "N64",
+  "rCode": 0,
+  "releaseDate": "N/A","id": 0,"infotext": "Nur Cartridge"
+}, 
+  {
+    "name": "Final Fantasy 14",
+    "plattform": "Playstaion 3",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Jade Cocoon 2",
+    "plattform": "Playstaion 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Land of Illusion Starring Mickey Mouse",
+    "plattform": "Master System",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Holy Magic Century",
+    "plattform": "N64",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Shenmue",
+    "plattform": "Dreamcast",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+  "name": "EVE burst error",
+  "plattform": "Sega Saturn",
+  "rCode": 2,
+  "releaseDate": "N/A","id": 0,"infotext": "Complete"
+}, 
+  {
+    "name": "3x3 Eyes",
+    "plattform": "Sega Saturn",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Grandia",
+    "plattform": "Sega Saturn",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Azel: Panzer Dragoon RPG",
+    "plattform": "Sega Saturn",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Arc the Lad 3",
+    "plattform": "Playstation",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Final Fantasy 3",
+    "plattform": "NES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Nur Cartridge"
+  }, 
+  {
+    "name": "Final Fantasy 2",
+    "plattform": "NES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Nur Cartridge"
+  }, 
+  {
+    "name": "Final Fantasy 1",
+    "plattform": "NES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Nur Cartridge"
+  }, 
+  {
+    "name": "Final Fantasy 15",
+    "plattform": "Playstation 4",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Dragon Quest 4",
+    "plattform": "NES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Nur Cartridge"
+  }, 
+  {
+    "name": "Dragon Quest 3",
+    "plattform": "NES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Nur Cartridge"
+  }, 
+  {
+    "name": "Dragon Quest 2",
+    "plattform": "NES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Nur Cartridge"
+  }, 
+  {
+    "name": "Dragon Quest",
+    "plattform": "NES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Nur Cartridge"
+  }, 
+  {
+    "name": "Final Fantasy 7 Rebirth",
+    "plattform": "Playstation 5",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+    {
+  "name": "Final Fantasy 16",
+  "plattform": "Playstation 5",
+  "rCode": 0,
+  "releaseDate": "N/A","id": 0,"infotext": "Complete"
+},  
+  {
+    "name": "Dawn of Mana",
+    "plattform": "Playstation 2",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+    "name": "Atelier Marie",
+    "plattform": "Playstation",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },
+  {
+  "name": "Lunar Silver Star Story",
+  "plattform": "Playstation",
+  "rCode": 2,
+  "releaseDate": "N/A","id": 0,"infotext": "Complete"
+},
+  {
+  "name": "FInal Fantasy 4",
+  "plattform": "SNES",
+  "rCode": 2,
+  "releaseDate": "N/A","id": 0,"infotext": "Complete"
+},
   {
     "name": "Bravely Default 2",
     "plattform": "Switch",
-    "rCode": 1,
+    "rCode": 0,
     "releaseDate": "N/A","id": 0,"infotext": "Complete"
   },
   {
     "name": "Live A Live",
     "plattform": "Switch",
-    "rCode": 1,
+    "rCode": 0,
     "releaseDate": "N/A","id": 0,"infotext": "Complete"
   },
   {
     "name": "Triangle Strategy",
     "plattform": "Switch",
-    "rCode": 1,
+    "rCode": 0,
     "releaseDate": "N/A","id": 0,"infotext": "Complete"
   },
   {
     "name": "Tactics Ogre: Reborn",
     "plattform": "Switch",
-    "rCode": 1,
+    "rCode": 0,
     "releaseDate": "N/A","id": 0,"infotext": "Complete"
   },
   {
     "name": "Atelier Sophie 2: The Alchemist of the Mysterios Dream",
     "plattform": "Switch",
-    "rCode": 1,
+    "rCode": 0,
     "releaseDate": "N/A","id": 0,"infotext": "Complete"
   },
   {
     "name": "CrossCode",
     "plattform": "Switch",
-    "rCode": 1,
+    "rCode": 0,
     "releaseDate": "N/A","id": 0,"infotext": "Complete"
   },
   {
     "name": "Ni No Kuni 2: Revenant Kingdom",
     "plattform": "Switch",
-    "rCode": 1,
+    "rCode": 0,
     "releaseDate": "N/A","id": 0,"infotext": "PRINCE's Edition"
   },
   {

@@ -1,6 +1,30 @@
 
 [   
   {
+    "name": "Oni",
+    "plattform": "PLaystation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Odin Sphere",
+    "plattform": "PLaystation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Grandia 2",
+    "plattform": "PLaystation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Beyond Good and Evil",
+    "plattform": "PLaystation 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
     "name": "Final Fantasy I-VI Collection",
     "plattform": "Switch",
     "rCode": 0,

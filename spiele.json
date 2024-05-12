@@ -1,6 +1,48 @@
 
 [   
   {
+    "name": "Actraiser",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Ys 1",
+    "plattform": "NES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Ys The Ark of Napishtim",
+    "plattform": "PLaystation 2",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Phantasy Star 2",
+    "plattform": "Mega Drive",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Phantasy Star generation:2",
+    "plattform": "PLaystation 2",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Bravely Second End Layer",
+    "plattform": "Nintendo 3DS",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Lufia",
+    "plattform": "SNES",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
     "name": "Oni",
     "plattform": "PLaystation 2",
     "rCode": 0,

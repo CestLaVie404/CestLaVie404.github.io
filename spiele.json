@@ -1,6 +1,714 @@
 
 [   
   {
+    "name": "Ys IX Montrum Nox Pact Edition",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Ys X Nordics",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Trinity Trigger",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Mercenariers Saga Chronicles",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Wizardry Proving Grounds of the mad Overlord",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Neo The World Ends With You",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Signalis",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Touhou Lunar Nights",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Suikoden 4",
+    "plattform": "Playstaion 2",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete Sammlerbox + Artbook usw"
+  }, 
+  {
+    "name": "Infinite Undiscovery",
+    "plattform": "XBOX 360",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Final Fantasy 11",
+    "plattform": "XBOX 360",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Incl. 3 DLC"
+  }, 
+  {
+    "name": "ICO",
+    "plattform": "Playstaion 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete, Sammelkarten, Box schlechter Zustand"
+  }, 
+  {
+    "name": "Valkyrie Profile Covenant of the Plume",
+    "plattform": "Nintendo DS",
+    "rCode": 1,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Ultima 6",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Cartridge, OVP"
+  },  
+  {
+    "name": "Dragon Quest 5",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Cartridge, OVP"
+  },  
+  {
+    "name": "MYSTERY DUNGEON 2 Shiren The Wanderer",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Cartridge, OVP"
+  },  
+  {
+    "name": "Torneko's Great Adventure: Mystery Dungeon",
+    "plattform": "SNES",
+    "rCode": 2,
+    "releaseDate": "N/A","id": 0,"infotext": "Cartridge, OVP"
+  },  
+  {
+    "name": "Celeste",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Unsighted",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Final Fantasy 9",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "I am Setsuna",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete/Jap."
+  },  
+  {
+    "name": "Labyrinth of Refrain Coven of Dusk",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "AiroHeart",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "SaGa Frontier Remastered",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Lost Sphear",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Final Fantasy 12 The Zodiac Age",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Shining Resonance Refrain",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "The Legend of Heroes Trails of Cold Steel III",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Monster Hunter Stories 2",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Cassette Beasts",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Another Code Recollection",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Bayonetta Origins Cereza and the Lost Demon",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Daemon X Machina",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Gravity Circuit",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Shadow of the Ninja Reborn",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Harvestellar",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "The DioField Chronicle",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Tunic",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Outer Wilds Archaeologist Edition",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Hyrule Warriors Zeit der Verherrung",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Ori The Collection",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete Huelle Schaeden"
+  },  
+  {
+    "name": "Super Mario RPG",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Kingdoms of Amalur Re-Reckoneing",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "FF7 FF8 Remastered Twin Pack",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Potion Permit",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete Huelle Schaeden"
+  },  
+  {
+    "name": "Cloudpunk",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Super Mario 3d All Stars",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Shin Megami tensen V: Vengeance",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Etrian Odyssey HD Collection I+II+III",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Crypt of the NecroDancer",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "River City Girls 1 + 2",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Stardew Valley",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Catherine Full Body",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Cadence of Hyrule",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Dead or Alive Xtreme 3 Scarlet",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Pocky and Rocky Reshrined",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Nelke And the Legendary Alchemist Atelier of the New World",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "RuneFactory 5",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Cröixleur Sigma",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Metroid Prime Remastered",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Nier Automata The End of YorHa Edition",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Princess Maker 2 Regeneration",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Smelter",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Tevi",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Dok Doki Literature Club Plus!",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Hollow Knight",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "GrimGrimMoire OnceMore",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Crystar",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "The Legend of Heroes Trails of Cold Steel IV",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Cross Tails",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Blue Reflection Second Light",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Tokyo Mirage Sessions FE Encore",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Labyrinth of Galleria The Moon Society",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Nayuta Boundless Trails",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Xenobalde Chronicles Definitive Edition",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Fire Emblem Three Houses",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Astral Chain",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+  "name": "Atelier Mysterious Trilogy",
+  "plattform": "Switch",
+  "rCode": 0,
+  "releaseDate": "N/A","id": 0,"infotext": "Complete. Japanisch. Engl. nur mit Patch"
+},  
+  {
+    "name": "Atelier Dusk Trilogy",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete. Japanisch. Engl. nur mit Patch"
+  },  
+  {
+    "name": "Octopath Traveler",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Atelier Marie Remake. The Alchemist of Salburg",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "God Wars The Complete Legend",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "The Legend of Heroes Trials Through Daybreak",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Legend of Mana",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Grandia HD Collection",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Sword of the Vagrant",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Deedlit in Wonder Labyrinth Record of Lodoss War",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Rune Factory 3 Special",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Collectors Edition Complete"
+  },  
+  {
+    "name": "Rune Factory 4 Special",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Valkyria Chronicles 4",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Nights of Azure 2 Bride of the New Moon",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Panzer Dragoon Zwei",
+    "plattform": "Sega Saturn",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Azure Striker Gunvolt 3",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete, Jap Box"
+  },  
+  {
+    "name": "Gunvolt Chronicles: Luminous Avenger IX 2",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete, Jap Box"
+  },  
+  {
+    "name": "Gal Guardians Demon Purge",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Ender Lilies",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "COGEN Sword of Rewind",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete, Jap Box"
+  },  
+  {
+    "name": "Myst",
+    "plattform": "Sega Saturn",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Tomb Raider",
+    "plattform": "Sega Saturn",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "The Legend of Heros Trials from Zero",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Deluxe Edition"
+  },  
+  {
+    "name": "Undernauts Labyrinth of Yomi",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Shin Megami Tensei III Nocturen",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "Dead or School",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },  
+  {
+    "name": "The Legend of Heroes Trails Into Reverie",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "13 Sentinels: Aegis Rim",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Unicorn Overlord",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  },   
+  {
+    "name": "Baiton Kaitos I & II ",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Rhapsody Marl Kingdom Chronicles",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Deluxe Edition"
+  }, 
+  {
+    "name": "Eiyuden Chronicles Hundred Heroes",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Sea of Stars",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Tales of Vesperia",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Mega Drive Classics",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete, Franz. Vers. 50+ Titel"
+  }, 
+  {
+    "name": "Alan Wake",
+    "plattform": "XBOX 360",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Bayonetta",
+    "plattform": "XBOX 360",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Lollipop Chainsaw",
+    "plattform": "XBOX 360",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Catherine",
+    "plattform": "XBOX 360",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Atelier Ryza: Ever Darkness & the Secret Hideout",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
     "name": "Actraiser",
     "plattform": "SNES",
     "rCode": 2,

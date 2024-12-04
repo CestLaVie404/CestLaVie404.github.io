@@ -1,0 +1,505 @@
+463;Super Mario RPG;Switch;;;;;Complete
+464;Kingdoms of Amalure Re-Reckoning;Switch;;;;;Complete
+465;FF7 FF8 Remastered Twin Pack;Switch;;;;;Complete
+466;Potion Permit;Switch;;;;;Complete Hülle Schäden
+467;Cloudpunk;Switch;;;;;Complete
+468;Outer Wilds Archaeologist Edition;Switch;0;;;;Complete
+469;Tunic;Switch;0;;;;Complete
+470;Daemon X Machina;Switch;;;;;Complete
+471;Gravity Circuit;Switch;;;;;Complete
+472;Shdow of the Ninja Reborn;Switch;;;;;Complete
+473;Harvestellar;Switch;;;;;Complete
+474;The DioField Chronicle;Switch;;;;;Complete
+475;Another Code Recollection;Switch;;;;;Complete
+476;Bayonetta Origins Cereza and the Lost Demon;Switch;;;;;Complete
+477;Cassette Beasts;Switch;0;;;;Complete
+478;Shining Resonance Refrain;Switch;0;;;;Complete
+479;The Legend of Heroes Trails of ColdSteel III;Switch;0;;;;Complete
+480;Monster Hunter Stories 2;Switch;0;;;;Complete
+481;Labyrinth of Refrain Coven of Dusk;Switch;0;;;;Complete
+482;Airoheart;Switch;0;;;;Complete
+483;SaGa Frontier Remastered;Switch;0;;;;Complete
+484;Lost Sphear;Switch;0;;;;Complete
+485;Final Fantasy 12 The Zodiac Age;Switch;0;;;;Complete
+486;I am Setsuna;Switch;0;;;;Complete/Jap.
+487;Final Fantasy 9;Switch;0;;;;Complete
+488;Unsighted;Switch;0;;;;Complete
+489;Celeste;Switch;0;;;;Complete
+490;Torneko's Great Adventure: Mystery Dungeon;SNES;2;;;;Cartridge, OVP
+491;MYSTERY DUNGEON 2 Shiren The Wanderer;SNES;2;;;;Cartridge, OVP
+492;Dragon Quest 5;SNES;2;;;;Cartridge, OVP
+493;Ultima 6;SNES;2;;;;Cartridge, OVP
+494;Valkyrie Profile Covenant of the Plume;Nintendo DS;1;;;;Complete
+495;ICO;Playstation 2;0;;;;Complete, Sammelkarten, Box schlechter Zustand
+496;Final Fantasy 11;XBOX 360;0;;;;Incl. 3 DLC
+497;Infinite Undiscovery;XBOX 360;0;;;;Complete
+498;Suikoden 4;Playstation 2;2;;;;Complete Sammlerbox + Artbook usw
+499;Neo The World Ends With You;Switch;0;;;;Complete
+500;Signalis;Switch;0;;;;Complete
+501;Touhou Lunar Nights;Switch;0;;;;Complete
+502;Ys IX Monstrum Nox Pact Edition;Switch;0;;;;Complete
+503;YS X Nordics;Switch;0;;;;Complete
+504;Trinity Trigger;Switch;0;;;;Complete
+505;Mercenaries Saga Chronicles;Switch;0;;;;Complete
+506;Wizadry Proving Grounds of the mad Overlord;Switch;0;;;;Complete
+180;Legend of Mana;Playstation 1;2;;Mana;;Complete
+181;Live A Live;Switch;0;;;;Complete
+182;Lollipop Chainsaw;XBOX 360;0;;;;Complete
+183;Lost Odyssey;XBOX 360;0;;;;Complete
+184;Lufia;SNES;0;;;;Complete
+185;Lufia;SNES;0;;;;Nur Cartridge
+186;Lufia & the fortress of Doom;SNES;1;;;;Nur Cartridge
+187;Luigis Mansion 2;Nintendo 3DS;0;;;;Complete
+188;Luigis Mansion;GameCube;0;;;;Complete
+189;Lunar Silver Star Story;Playstation 1;2;;;;Complete
+190;Lylat Wars;N64;0;;;;Complete
+191;Mario & Luigi: Dream Team Bros.;Nintendo 3DS;0;;;;Complete
+192;Mario & Luigi: Paper Jam Bros.;Nintendo 3DS;0;;;;Complete
+193;Mario is Missing;SNES;0;;;;Complete
+194;Mario Kart 7;Nintendo 3DS;0;;;;Complete
+195;Mario Kart 8;WiiU;0;;;;Complete
+196;Mario Kart 64;N64;0;;;;Complete
+197;Mario Kart Super Circuit;Game Boy Advance;0;;;;Complete
+198;Mario Kart Wii;Wii;0;;;;Complete
+199;Mario Paint;SNES;0;;;;Complete
+200;Mario Party;N64;0;;;;Complete
+201;Mario Picross;Game Boy;0;;;;Nur Verpackung
+202;Mario Tennis: Ultra Smash;WiiU;0;;;;Complete
+203;Mass Effect 2;Playstation 3;0;;;;Complete
+204;Mega Drive Classics;Switch;0;;;;Complete, Franz. Vers. 50+ Titel
+205;Mega Games I;Mega Drive;0;;;;Complete
+206;Mega Man 2;NES;0;;;;Mit Packung
+207;Mega Man 4;NES;0;;;;Mit Packung
+208;Mega Man Dr Wilys Rache;Game Boy;0;;;;Complete
+209;Mega Man III;Game Boy;0;;;;Complete
+210;Mega Man X;SNES;0;;;;Complete
+211;Mega Man X2;SNES;0;;;;Complete
+212;Metroid;NES;0;;;;Nur Cartridge
+213;Metroid Dredd;Switch;0;;;;Complete
+214;Metroid Prime;GameCube;0;;;;Complete / Players Choice
+215;Metroid Prime;GameCube;0;;;;Complete
+216;Metroid: Other M;Wii;0;;;;Complete
+217;Mirrors Edge;XBOX 360;0;;;;Complete
+218;Mittekerde Mordors Schatten;Playstation 4;0;;;;Complete
+219;Mother 2;SNES;2;;Mother;;Nur Cartridge
+220;Myst;Sega Saturn;0;;;;Complete
+221;Mystic Quest;Game Boy;0;;;;N/A
+222;Mystic Quest Legend;SNES;0;;;;Complete
+223;NBA PRo 98;N64;0;;;;Complete
+224;Need for Speed Rivals;XBOX One;0;;;;Complete
+225;New Super Mario Bros. Wii;Wii;0;;;;Complete
+226;Ni No Kuni 2: Revenant Kingdom;Switch;0;;;;PRINCE's Edition
+227;Ni No Kuni: Der Fluch der Weissen Königin;Switch;0;;;;Complete
+228;Nier:Automata;Playstation 4;0;;;;Complete
+229;Nights of Azure 2 Bride of the New Moon;Switch;0;;;;Complete
+230;Ninja Gaiden 3 Razors Edge;WiiU;0;;;;Complete
+231;Ninjago Schatten der Ronin;Nintendo 3DS;0;;;;Complete
+232;Nioh Collection;Playstation 5;0;;;;Complete
+233;Octopath Traveler II;Switch;0;;;;Complete
+234;Odin Sphere;Playstation 2;0;;;;Complete
+235;Oni;Playstation 2;0;;;;Complete
+236;Ottifants;Mega Drive;0;;;;Nur Cartridge
+237;Pacattack;SNES;0;;;;Complete
+238;Pacman 2 The new Adventure;SNES;0;;;;Complete
+36;Blue Dragon;XBOX 360;0;;;;Complete
+37;Boulder Dash;Game Boy;0;;;;Nur Verpackung
+38;Brandish;SNES;2;;;;Complete
+39;Bravely Default 2;Switch;0;;;;Complete
+40;Bravely Second End Layer;Nintendo 3DS;0;;;;Complete
+41;Breath of Fire 2;SNES;2;;Breath of Fire;;Nur Cartridge
+42;Breath of Fire;SNES;2;;Breath of Fire;;Nur Cartridge
+43;Breath of Fire 3;Playstation 1;0;;Breath of Fire;;N/A
+44;Breath of Fire Dragon Quarter;Playstation 2;0;;Breath of Fire;;Complete
+45;Call of Duty Black Ops II;WiiU;0;;;;Complete
+46;Castlevania IV;SNES;0;;;;Nur Cartridge
+47;Catherine;XBOX 360;0;;;;Complete
+48;Chrono Cross;Switch;0;;;;Complete
+49;Chrono Cross;Playstation 1;2;;;;Complete
+50;Chrono Trigger;SNES;2;;;;Complete
+51;COGEN Sword of Rewind;Switch;0;;;;Complete Jap.Box
+52;Collection of Mana;Switch;0;;Mana;;Complete
+53;Command & Conquer;N64;0;;;;Complete
+54;CrossCode;Switch;0;;;;Complete
+55;Crysis 2;Playstation 3;0;;;;Complete
+56;Darksiders Warmastered Edition;WiiU;0;;;;Complete
+57;Dawn of Mana;Playstation 2;2;;Mana;;Complete
+58;Dead or School;Switch;0;;;;Complete
+59;Deedlit in Wonder Labyrinth Record of Lodoss War;Switch;0;;;;Complete
+60;Diablo 3 Ultimate Evil Edition;Playstation 4;0;;;;Complete
+61;Die Schlümpfe;SNES;0;;;;Complete
+62;Die Schlümpfe Reisen um die Welt;SNES;0;;;;Complete
+63;Die Siedler;PC;0;;;;N/A
+64;Disneys Das Dschungelbuch;Game Boy;0;;;;Complete
+65;Disneys Violetta Rythmus und Musik;Nintendo 3DS;0;;;;Complete
+66;Donkey Kong 64;N64;0;;;;Nur Cartridge
+67;Donkey Kong;Game Boy;0;;;;Complete
+68;Donkey Kong Country 3;SNES;0;;;;Nur Cartridge
+69;Donkey Kong Land;Game Boy;0;;;;Complete
+70;Dragon Quest 2;NES;2;;Dragon Quest;;Nur Cartridge
+71;Dragon Quest 3;NES;2;;Dragon Quest;;Nur Cartridge
+72;Dragon Quest 3;SNES;2;;Dragon Quest;;Nur Cartridge
+73;Dragon Quest 4;NES;2;;Dragon Quest;;Nur Cartridge
+74;Dragon Quest;NES;2;;Dragon Quest;;Nur Cartridge
+75;Dragon Quest 5;SNES;2;;Dragon Quest;;Nur Cartridge
+76;Dragon Quest 6;SNES;2;;Dragon Quest;;Nur Cartridge
+77;Dragon Quest 1 & 2;SNES;2;;Dragon Quest;;Nur Cartridge
+78;Dragon Quest Die Reise des verwunschenen Königs;Playstation 2;0;;Dragon Quest;;Complete
+79;Dragon Quest IX Hüter des Himmels;Nintendo DS;0;;Dragon Quest;;Complete
+80;Dragon Quest VI Wandler zwischen den Welten;Nintendo DS;0;;Dragon Quest;;Complete
+81;Dragon Quest XI Echoes of an Elusive Age S Definitive Edition;Switch;0;;Dragon Quest;;Complete
+82;Ducktales;Game Boy;0;;;;Nur Cartridge
+83;Ducktales;NES;0;;;;Nur Cartridge
+84;Eiyuden Chronicles Hundred Heroes;Switch;0;;;;Complete
+85;Ender Lilies;Switch;0;;;;Complete
+86;Enduro;Ataria 2600;0;;;;Nur Cartridge
+87;Eternal Champions;Mega Drive;0;;;;Nur Cartridge
+88;Eternal Sonata;XBOX 360;0;;;;Spiel+Box
+89;EVE burst error;Sega Saturn;2;;;;Complete
+90;F-Zero;SNES;0;;;;Nur Cartridge
+239;Panzer Dragoon Zwei;Sega Saturn;0;;;;Complete
+240;Paper Mario Color Splash;WiiU;0;;;;Complete
+241;Paper Mario Sticker Star;Nintendo 3DS;0;;;;Complete
+242;Parasite Eve;Playstation 1;2;;;;Complete
+243;Persona 5 Royal;Switch;0;;;;Complete
+244;Pete Sampras Tennis;Mega Drive;0;;;;Complete
+245;Phantasy Star 2;Mega Drive;1;;Phantasy Star;;Complete
+246;Phantasy Star generation:2;Playstation 2;2;;Phantasy Star;;Complete
+247;Phantasy Star Universe;Playstation 2;0;;Phantasy Star;;Complete
+248;Pilot Wings 64;N64;0;;;;Complete
+249;Plok;SNES;0;;;;Complete
+250;Pokemon Blau;Game Boy;0;;;;Complete
+251;Pokemon Goldene Edition HeatrsGold;Nintendo DS;0;;;;Complete
+252;Pokemon Rot;Game Boy;0;;;;Complete
+253;Pokemon Schild;Switch;0;;;;Complete
+254;Pokemon Stadium;N64;0;;;;Nur Cartridge
+255;Pokemon Weisse Edition;Nintendo DS;0;;;;Complete
+256;Poochy & Yoshis Woolly World;Nintendo 3DS;0;;;;Complete
+257;Power Stone;Dreamcast;0;;;;Complete
+258;Probotector 2;Game Boy;0;;;;Complete
+259;Professor Layton und die Maske der Wunder;Nintendo 3DS;0;;;;Complete
+260;Project Zero;Playstation 2;0;;;;Complete
+261;Project Zero;XBOX;0;;;;Complete
+262;Rainbow Six Extraction;XBOX One;0;;;;Complete
+263;Returnal;Playstation 5;0;;;;Complete
+264;Rhapsody Marl Kingdom Chronicles;Switch;0;;;;Deluxe Edition
+265;Ridge Racer;Playstation 2;0;;;;Complete
+266;River Raid;Ataria 2600;0;;;;Nur Cartridge
+267;Romancing Saga 2;SNES;2;;Saga;;Complete
+268;Romancing Saga 3;SNES;2;;Saga;;Complete
+269;Romancing Saga;SNES;2;;Saga;;Complete
+270;Rune Factory 3 Special;Switch;0;;;;Collectors Edition Complete
+271;Rune Factory 4 Special;Switch;0;;;;Complete
+272;Saga Frontier 2;Playstation 1;2;;Saga;;Complete
+273;Saga Frontier;Playstation 1;2;;Saga;;Complete
+274;Saga Frontier 2;Playstation 1;0;;Saga;;N/A
+275;Sea of Stars;Switch;0;;;;Complete
+276;Secret of Mana;SNES;0;;Mana;;Complete
+277;Secret of Mana / Seiken Densetsu 2;SNES;2;;Mana;;Nur Cartridge
+278;Secret of Mana 2 / Seiken Densetsu 3;SNES;2;;Mana;;Complete
+279;Seiken Densetsu Children of Mana;Nintendo DS;2;;Mana;;Complete
+280;Seiken Densetsu Heroes of Mana;Nintendo DS;2;;Mana;;Complete
+281;Set Super Mario Bros, Tetris, Nintendo World Cup;NES;0;;;;Nur Cartridge
+282;Shadow Hearts Covenant;Playstation 2;0;;;;Complete
+283;Shadow of the Colossus;Playstation 4;0;;;;Complete
+284;Shenmue;Dreamcast;0;;;;Complete
+285;Shin Megami Tensei III Nocturen;Switch;0;;;;Complete
+286;Shin Megami tensei V;Switch;0;;;;Complete
+287;Solar Striker;Game Boy;0;;;;Nur Cartridge
+288;Sonic Adventure;Dreamcast;0;;;;Complete
+289;Soul Blader;SNES;2;;Soul-Blazer;;Nur Cartridge
+290;Space Invaders;Ataria 2600;0;;;;Nur cartridge
+291;Sparkster;SNES;0;;;;Complete
+292;Spider Man 2;Game Boy;0;;;;Complete
+293;Star Ocean;SNES;2;;Star Ocean;;Complete
+294;Star Ocean Second Story R;Switch;0;;Star Ocean;;Complete
+295;Star Ocean The Second Story;Playstation 1;0;;Star Ocean;;Complete
+296;Star Wars Episode I Racer;N64;0;;;;Complete
+297;Star Wars Rogue Leader;GameCube;0;;;;Complete
+298;Star Wars Shadow of the Empire;N64;0;;;;Complete
+299;Starwing;SNES;0;;;;Complete
+300;Story of Seasons;Nintendo 3DS;2;;;;Complete
+301;Stunt Race FX;SNES;0;;;;Complete
+302;Suikoden 2;Playstation 1;2;;Suikoden;;N/A
+303;Suikoden 3;Playstation 2;2;;Suikoden;;N/A
+304;Suikoden 4;Playstation 2;2;;Suikoden;;N/A
+305;Suikoden 5;Playstation 2;2;;Suikoden;;N/A
+306;Suikoden;Playstation 1;2;;Suikoden;;N/A
+307;Suikoden;Playstation 1;0;;Suikoden;;N/A
+308;Suikoden V;Playstation 2;1;;Suikoden;;Complete Adult Rating
+309;Summoner;Playstation 2;0;;;;Complete
+310;Super Ghouls n Ghosts;SNES;0;;;;Complete
+311;Super Mario 64;N64;0;;;;N/A
+312;Super Mario 3D Land;Nintendo 3DS;0;;;;Complete
+313;Super Mario 3D World;WiiU;0;;;;Complete
+314;Super Mario Advance;Game Boy Advance;0;;;;Complete
+315;Super Mario Allstars;SNES;0;;;;Complete
+316;Super Mario Bros 2;NES;0;;;;Nur Catridge
+317;Super Mario Bros 3;NES;0;;;;Nur Cartridge
+318;Super Mario Galaxy 2;Wii;0;;;;Complete
+319;Super Mario Galaxy;Wii;0;;;;Complete/Nintendo Selects
+320;Super Mario Galaxy;Wii;0;;;;Complete
+321;Super Mario Kart;SNES;0;;;;Complete
+322;Super Mario Land 2;Game Boy;0;;;;Complete
+323;Super Mario Maker 2;Switch;0;;;;Complete
+324;Super Mario Maker;WiiU;0;;;;Complete
+325;Super Mario Odyssey;Switch;0;;;;Complete
+326;Super Mario Sunshine;GameCube;0;;;;Complete
+327;Super Mario World;SNES;0;;;;Nur Cartridge
+328;Super Metroid;SNES;0;;;;Complete
+329;Super Putty;SNES;0;;;;Nur Cartridge
+330;Super Smash Bros. Brawl;Wii;0;;;;Complete
+331;Super Smash Bros. for Nintendo 3DS;Nintendo 3DS;0;;;;Complete
+332;Super Smash Bros. Ultimate;Switch;0;;;;Complete
+333;Sword of Mana;Game Boy Advance;0;;Mana;;Complete
+334;Sword of the Vagrant;Switch;0;;;;Complete
+335;Tactics Ogre Lets Cling Together;SNES;2;;;;Complete
+336;Tactics Ogre: Reborn;Switch;0;;;;Complete
+337;Tales of Destiny;Playstation 1;2;;Tales of;;Complete
+338;Tales of Phantasia;Playstation 1;2;;Tales of;;Complete
+339;Tales of Phantasia;SNES;2;;Tales of;;Nur Cartridge
+340;Tales of Symphonia;GameCube;0;;Tales of;;Complete
+341;Tales of Symphonia Dawn of the New World;Wii;0;;Tales of;;Complete
+342;Tales of Vesperia;Switch;0;;Tales of;;Complete
+343;Tales of Xillia;Playstation 3;0;;Tales of;;Day One Edition
+344;Tecmo Secret of the Stars;SNES;1;;;;Nur Cartridge
+345;Tennis;Game Boy;0;;;;Nur Verpackung
+346;Terranigma;SNES;2;;Soul-Blazer;;Nur Cartridge
+347;Terranigma;SNES;0;;Soul-Blazer;;Complete
+348;Tetris;Game Boy;0;;;;Nur Cartridge
+349;Tetris & Dr Mario;SNES;0;;;;Complete
+350;Tetris Blast;SNES;0;;;;Complete
+351;The 7th Saga;SNES;1;;;;Complete
+352;The Elder Scroll IV Oblivion. SPiel des Jahres Edition;Playstation 3;0;;;;Complete
+353;The Evil Within;Playstation 4;0;;;;Complete
+354;The Last of Us remastered;Playstation 4;0;;;;Complete
+355;The Legend of Heroes Trails Into Reverie;Switch;0;;The Legend of Heroes;;Complete
+356;The Legend of Heros Trials from Zero;Switch;0;;The Legend of Heroes;;Complete
+357;The Legend of Heroes Trials of Azure;Switch;0;;The Legend of Heroes;;Complete
+358;The Magical Quest Starring Mickey Mouse;SNES;0;;;;Complete
+359;The Witcher 2;XBOX 360;0;;;;Complete
+360;TinyToon Adventures;Game Boy;0;;;;Complete
+361;Tom Clancys Splinter Cell Blacklist;WiiU;0;;;;Complete
+362;Tomb Raider;Sega Saturn;0;;;;Complete
+363;Tomb Raider Definitive Edition;XBOX One;0;;;;Complete
+364;Tomb Raider IV The Last Revelation;Dreamcast;0;;;;Complete
+365;Trials of Mana;Switch;0;;;9;Complete
+366;Triangle Strategy;Switch;0;;;;Complete
+367;Turok 2 Seeds of Evil;N64;0;;;;Complete
+368;Turok Dinasaur Hunter;N64;0;;;;Complete
+369;Undernauts Labyrinth of Yomi;Switch;0;;;;Complete
+370;Unicorn Overlord;Switch;0;;;;Complete
+371;Vagrant Story;Playstation 1;0;;;;N/A
+372;Valkyre Profil 2;Playstation 2;0;;Valkyre Profil;;Complete
+373;Valkyre Profile;Playstation 1;2;;Valkyre Profil;;Collectors Edition Complete
+374;Valkyria Chronicles 4;Switch;0;;;;Complete
+375;Vandal Hearts 2;Playstation 1;0;;;;N/A
+376;Vanguard;Ataria 2600;0;;;;Nur Cartridge
+377;Video Pinball;Ataria 2600;0;;;;Nur Cartridge
+378;Wanderers From Ys 3;SNES;2;;Ys;;Nur Cartridge
+379;Wario Blast;Game Boy;0;;;;Nur Verpackung
+380;Wario Land Super Mario Land 3;Game Boy;0;;;;Nur Verpackung
+381;Wave Race 64;N64;0;;;;N/A
+382;Wave Race Blue Storm;GameCube;0;;;;Complete
+383;Wii Sports;Wii;0;;;;Nur CD
+384;Wild Arms 2;Playstation 1;2;;;;Complete
+385;Wild Arms;Playstation 1;2;;;;Complete
+386;Wind Commander Prophecy;Game Boy Advance;0;;;;Complete
+387;Wing Commander;SNES;0;;;;Nur Cartridge
+388;Xenobalde Chronicles 2;Switch;0;;Xeno;;Complete
+389;Xenoblade Chronicles;Wii;0;;Xeno;;Complete
+390;Xenoblade Chronicles 3;Switch;0;;Xeno;;Complete
+391;Xenoblade Chronicles 2 Torna;Switch;0;;Xeno;;Complete
+392;Xenogears;Playstation 1;2;;Xeno;;Complete
+393;Xenosaga II;Playstation 2;0;;Xeno;;Complete
+394;Xenosage Freakz;Playstation 2;2;;Xeno;;Complete
+395;Xenosage I;Playstation 2;2;;Xeno;;Complete
+396;Xenosage II;Playstation 2;2;;Xeno;;Complete
+397;Xenosage III;Playstation 2;2;;Xeno;;Complete
+398;Yo-Kai Watch;Nintendo 3DS;0;;;;Complete
+399;Yoshis Island;SNES;0;;;;Complete
+400;Yoshis New Island;Nintendo 3DS;0;;;;Complete
+401;Ys 1;NES;2;;Ys;;Complete
+402;Ys 4;SNES;2;;Ys;;Nur Cartridge
+403;Ys Origins;Switch;0;;Ys;;Complete
+404;Ys The Ark of Napishtim;Playstation 2;1;;Ys;;Complete
+405;Ys VIII Lacrimosa of Dana;Switch;0;;Ys;;Complete
+406;Zelda A Link Between Worlds;Nintendo 3DS;0;;Zelda;;Complete
+407;Zelda A Link to the Past;SNES;0;;Zelda;;Complete
+408;Zelda Breath of the Wild;Switch;0;;Zelda;;Complete
+409;Zelda II The Adventure of Link;NES;2;;Zelda;;Nur Cartridge
+410;Zelda Links Awakening DX;Game Boy;0;;Zelda;;Complete
+411;Zelda Majoras Mask;N64;0;;Zelda;;Complete
+412;Zelda Ocarina of Time;N64;0;;Zelda;;Complete
+413;Zelda Ocarina of Time 3D;Nintendo 3DS;0;;Zelda;;Complete
+414;Zelda Skyward Sword;Wii;0;;Zelda;;Complete
+415;Zelda Spirit Tracks;Nintendo DS;0;;Zelda;;Complete
+416;Zelda Tears of the Kingdom;Switch;0;;Zelda;;Complete
+417;Zelda The Wind Waker;GameCube;0;;Zelda;;Complete
+418;Zelda Tri Force Heroes;Nintendo 3DS;0;;Zelda;;Complete
+419;Zelda Twilight Princess;Wii;0;;Zelda;;Complete
+420;ZombiU;WiiU;0;;;;Complete
+421;Zool;SNES;0;;;;Complete
+422;Atelier Mysterious Trilogy;Switch;0;;Atelier;;Complete. Japanisch. Engl. nur mit Patch
+423;Atelier Dusk Trilogy;Switch;0;;Atelier;;Complete. Japanisch. Engl. nur mit Patch
+425;Octopath Traveler;Switch;0;;;;Complete
+426;Atelier Marie Remake. The Alchemist of Salburg;Switch;0;;Atelier;;Complete
+427;God Wars The Complete Legend;Switch;0;;;;Complete
+428;The Legend of Heroes Trials Through Daybreak;Switch;0;;The Legend of Heroes;;Complete
+429;Code of Princess EX;Switch;0;;;;Complete
+430;Crystar;Switch;;;;;Complete
+431;The Legend of Heroes Trails of Cold Steel IV;Switch;;;;;Complete
+432;Cross Tails;Switch;;;;;Complete
+433;Blue Reflection Second Light;Switch;;;;;Complete
+434;Tokyo Mirage Sessions FE Encore;Switch;;;;;Complete
+435;Labyrinth of Galleria The Moon Society;Switch;;;;;Complete
+436;Nayuta Boundless Trails;Switch;;;;;Complete
+437;Xenoblade Chronicles Definitive Edition;Switch;;;;;Complete
+438;Fire Emblem Three Houses;Switch;;;;;Complete
+439;Astral Chain;Switch;;;;;Complete
+440;Pocky and Rocky Reshrined;Switch;;;;;Complete
+441;Nelke and the Legendary Alchemist Ateliers of the New World;Switch;;;;;Complete
+442;Rune Factory 5;Switch;;;;;Complete
+443;Cröixleur Sigma;Switch;;;;;Complete
+444;Metroid Prime Remastered;Switch;;;;;Complete
+445;Nier Automata The End of YorHa Edition;Switch;;;;;Complete
+446;Princess Maker 2 Regeneration;Switch;;;;;Complete
+447;Smelter;Switch;;;;;Complete
+448;Tevi;Switch;;;;;Complete
+449;Doki Doki Literature Club Plus!;Switch;;;;;Complete
+450;Hollow Knight;Switch;;;;;Complete
+451;GrimGrimMoire OnceMore;Switch;;;;;Complete
+452;Etrian Odyssey HD Collection I+II+III;Switch;;;;;Complete
+453;Crypt of the NecroDancer;Switch;;;;;Complete
+454;River City Girls 1 + 2;Switch;;;;;Complete
+455;Stardew Valley;Switch;;;;;Complete
+456;Catherine Full Body;Switch;;;;;Complete
+457;Cadence of Hyrule;Switch;;;;;Complete
+458;Dead or Alive Xtreme 3 Scarlet;Switch;;;;;Complete
+459;Shin Megami Tensei V: Vengeance;Switch;;;;;Complete
+460;Super Mario 3D All Stars;Switch;;;;;Complete
+461;Hyrule Warriors Zeit der Verheerung;Switch;;;;;Complete
+462;Ori The Collection;Switch;;;;;Complete Leichte Schäden Hülle
+1;007 Ein Quantum Trost;Wii;0;10.10.2020;;;Complete
+2;13 Sentinals: Aegis Rim;Switch;0;;;;Complete
+3;3x3 Eyes;Sega Saturn;2;;;;Complete
+4;Actraiser;SNES;2;;;;Complete
+5;Actraiser 2;SNES;0;;;;Nur Cartridge
+6;Alan Wake;XBOX 360;0;;;;Complete
+7;Alfred Chicken;Game Boy;0;;;;Complete
+8;Alleyway;Game Boy;0;;;;Complete
+9;Alundra 2;Playstation 1;0;;;;N/A
+10;Alundra;Playstation 1;0;;;;Nur CD
+11;Animal Crossing: Happy Home Designer;Nintendo 3DS;0;;;;Complete
+12;Animal Crossing: New Leaf;Nintendo 3DS;0;;;;Complete
+13;Arc the Lad 2;Playstation 1;2;;;;Complete
+14;Arc the Lad 3;Playstation 1;2;;;;Complete
+15;Art of Fighting;Mega Drive;0;;;;Nur Cartridge
+16;Asterix;Game Boy;0;;;;Nur Verpackung
+17;Asterix und Obelix;SNES;0;;;;Complete
+18;Asteroids;Ataria 2600;0;;;;Nur Cartridge
+19;Atelier Elli;Playstation 1;2;;Atelier;;Complete
+20;Atelier Marie;Playstation 1;2;;;;Complete
+21;Atelier Ryza 2: Lost Legends & the Secret Fairy;Switch;0;;Atelier;;Complete
+22;	Atelier Ryza 3: Alchemist of the End & the Secret Key;Switch;0;;Atelier;;Complete
+23;Atelier Ryza: Ever Darkness & the Secret Hideout;Switch;0;;Atelier;;Complete
+24;Atelier Sophie 2: The Alchemist of the Mysterios Dream;Switch;0;;Atelier;;Complete
+25;Altered Beast;Mega Drive;0;;;;Nur Cartridge
+26;Azel: Panzer Dragoon RPG;Sega Saturn;2;;;;Complete
+27;	Azure Striker Gunvolt 3;Switch;0;;;;Complete Jap.Box
+28;Bahamut Lagoon;SNES;2;;;;Complete
+29;Baiton Kaitos I & II;Switch;0;;;;Complete
+30;Baldurs Gate: Dark Alliance;Playstation 2;0;;;;Complete
+31;Banjo Kazooie;N64;0;;;;Complete
+32;Bayonetta;XBOX 360;0;;;;Complete
+33;Beyond Good and Evil;Playstation 2;0;;;;Complete
+34;Blast Corps;N64;0;;;;Complete
+35;Bloodborne;Playstation 4;0;;;;Complete
+91;F-Zero Maximum Velocity;Game Boy Advance;0;;;;Complete
+92;F-Zero X;N64;0;;;;N/A
+93;F1 2001;Playstation 2;0;;;;Complete
+94;F1 Pole Position;N64;0;;;;Complete
+95;F1 Race;Game Boy;0;;;;Nur Cartridge
+96;F1 World Gran Prix;N64;0;;;;Complete
+97;Fable;XBOX;0;;;;Complete
+98;Fallout 3 Game of the year edition;Playstation 3;0;;;;Complete
+99;Fantasy Life;Nintendo DS;0;;;;Complete
+100;Fifa 17;Playstation 4;0;;;;Complete
+101;Fifa 19;Playstation 4;0;;;;Complete
+102;Final Fantasy;NES;2;;Final Fantasy;;Nur Cartridge
+103;Final Fantasy 2;NES;2;;Final Fantasy;;Nur Cartridge
+104;Final Fantasy 3;NES;2;;Final Fantasy;;Nur Cartridge
+105;Final Fantasy 4;SNES;2;;Final Fantasy;;Complete
+106;Final Fantasy 5;SNES;2;;Final Fantasy;;Complete
+107;Final Fantasy 5;SNES;2;;Final Fantasy;;Nur Cartridge
+108;Final Fantasy 6;SNES;2;;Final Fantasy;;Nur Cartridge
+109;Final Fantasy 7;Playstation 1;0;;Final Fantasy;;N/A
+110;Final Fantasy 8;Playstation 1;0;;Final Fantasy;;N/A
+111;Final Fantasy 9;Playstation 1;0;;Final Fantasy;;N/A
+112;Final Fantasy 10;Playstation 2;0;;Final Fantasy;;N/A
+113;Final Fantasy 12;Playstation 2;0;;Final Fantasy;;Complete
+114;Final Fantasy 13;Playstation 3;0;;Final Fantasy;;Complete
+115;Final Fantasy 14;Playstation 3;0;;Final Fantasy;;Complete
+116;Final Fantasy 15;Playstation 4;0;;Final Fantasy;;Complete
+117;Final Fantasy 16;Playstation 5;0;;Final Fantasy;;Complete
+118;Final Fantasy 10-2;Playstation 2;0;;Final Fantasy;;Complete
+119;Final Fantasy 7 Rebirth;Playstation 5;0;;Final Fantasy;;Complete
+120;Final Fantasy Anthology;Playstation 1;0;;Final Fantasy;;N/A
+121;Final Fantasy Chrystal Chronicles The Crystal Bearers;Playstation 2;0;;Final Fantasy;;N/A
+122;Final Fantasy Crystal Chronicle Echoes of Time;Nintendo DS;2;;Final Fantasy;;Complete
+123;Final Fantasy Crystal Chronicle Ring of Fates;Nintendo DS;2;;Final Fantasy;;Complete
+124;Final Fantasy Gaiden Kikari no 4 Senshi;Nintendo DS;2;;Final Fantasy;;Complete
+125;Final Fantasy I-VI Collection;Switch;0;;Final Fantasy;;Complete Jap.Box
+126;Final Fantasy II;Game Boy;1;;Final Fantasy;;Complete
+127;Final Fantasy III;Nintendo DS;2;;Final Fantasy;;Complete
+128;Final Fantasy III;SNES;1;;Final Fantasy;;Nur Cartridge
+129;Final Fantasy Origins;Playstation 1;0;;Final Fantasy;;N/A
+130;Final Fantasy Tactics;Playstation 1;2;;Final Fantasy;;Complete
+131;Final Fantasy Tactics A3 Grimoire of the Rift;Nintendo DS;2;;Final Fantasy;;Complete
+132;Final Fantasy XII Revenant Wings;Nintendo DS;2;;Final Fantasy;;Complete
+133;Final Fantay 7 Remake;Playstation 4;0;;Final Fantasy;;Complete
+134;Final Fantsy IV;Nintendo DS;2;;Final Fantasy;;Complete
+135;Fire Emblem Fates: Vermächtnis;Nintendo 3DS;0;;;;Complete
+136;Formel Eins 2001;Playstation 2;0;;;;Complete
+137;Gal Guardians Demon Purge;Switch;0;;;;Complete
+138;Galaxian;Ataria 2600;0;;;;Nur Cartridge
+139;Garfield Labyrinth;Game Boy;0;;;;Complete
+140;Gargoyles Quest;Game Boy;0;;;;Complete
+141;Glover;N64;0;;;;Nur Cartridge
+142;Golden Axe II;Mega Drive;0;;;;Box vorhanden, Cartridge fragwürdige Zustand
+143;Golden Sun;Game Boy Advance;0;;;;Complete
+144;Goldeneye 007;N64;0;;;;Nur Cartridge
+145;Gran Turismo 5;Playstation 3;0;;;;Complete
+146;Gran Turismo 7;Playstation 5;0;;;;Complete
+147;Grandia 2;Playstation 2;0;;;;Complete
+148;Grandia;Sega Saturn;2;;;;Complete
+149;Grandia;Playstation 1;0;;;;UbiSoft Exclusive
+150;Grandia HD Collection;Switch;0;;;;Complete
+151;GTA 5;Playstation 3;0;;;;Complete
+152;Gunvolt Chronicles: Luminous Avenger IX 2;Switch;0;;;;Complete Jap.Box
+153;Halo;XBOX;0;;;;Complete
+154;Hey! Pikmin;Nintendo 3DS;0;;;;Complete
+155;Holy Magic Century;N64;0;;;;Complete
+156;HomeTown Story;Nintendo 3DS;0;;;;Complete
+157;Horizon Forbidden West;Playstation 5;0;;;;Complete
+158;Horizon Zero Dawn;Playstation 4;0;;;;Complete
+159;Hyrule Warriors;WiiU;0;;;;Complete
+160;Illusion of Time;SNES;2;;Soul-Blazer;;Nur Cartridge
+161;Illusion of Time;SNES;0;;Soul-Blazer;;Complete
+162;inFamous Second Sun;Playstation 4;0;;;;Complete
+163;Jade Cocoon 2;Playstation 2;0;;;;Complete
+164;Jade Cocoon;Playstation 1;0;;;;N/A
+165;Jet Force Gemini;N64;0;;;;Complete
+166;Killzone Shadow Fall;Playstation 4;0;;;;Complete
+167;Kirby Dream Land;Game Boy;0;;;;Complete
+168;Kirby Pinball Land;Game Boy;0;;;;Complete
+169;Kirby und der Regenbogen Pinsel;WiiU;0;;;;Complete
+170;Kirbys Adventure;NES;0;;;;Cartrdige und Anleitung
+171;Kirbys Dream Course;SNES;0;;;;Complete
+172;Kirbys Dream Course;Game Boy;0;;;;Complete
+173;Knack;Playstation 4;0;;;;Complete
+174;Koudelka;Playstation 1;0;;;;Complete
+175;Lagoon;SNES;1;;;;Nur Cartridge
+176;Land of Illusion Starring Mickey Mouse;Master System;0;;;;Complete
+177;Legend of Dragoon;Playstation 1;2;;;;Complete
+178;Legend of Legaia;Playstation 1;0;;;;Keine Anleitung
+179;Legend of Mana;Switch;0;;Mana;;Complete

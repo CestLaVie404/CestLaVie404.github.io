@@ -28,12 +28,13 @@ function sortEntriesByName(entries) {
     function tableLine(iterater, tb) {  
       var col_;  
       if(tb[iterater].done) {col_='green'} else {col_='red'};
-        return `<tr>          
+        return `<tr>        
+        <td>${tb[iterater].id}</td>   
         <td>${tb[iterater].name}</td> 
         <td>${tb[iterater].plattform}</td> 
         <td>${tb[iterater].rCode}</td> 
-        <td>${tb[iterater].releaseDate}</td> 
-        <td>${tb[iterater].id}</td>  
+        <td>${tb[iterater].releaseDate}</td>     
+        <td>${tb[iterater].reihe}</td>  
         <!-- <td style="background: ${col_}">${tb[iterater].done}</td>  -->
         <td>${tb[iterater].infotext}</td>    
             </tr>`
@@ -58,6 +59,7 @@ function sortEntriesByName(entries) {
                 || searchMask.test(_game[i].plattform) 
                 || searchMask.test(_game[i].rCode) 
                 || searchMask.test(_game[i].releaseDate) 
+                || searchMask.test(_game[i].reihe) 
                 ) 
                 {       
                   html+=tableLine(_game[i].id,_game);    
@@ -82,6 +84,7 @@ function sortEntriesByName(entries) {
                 || searchMask.test(_game[i].plattform) 
                 || searchMask.test(_game[i].rCode) 
                 || searchMask.test(_game[i].releaseDate) 
+                || searchMask.test(_game[i].reihe) 
                 ) 
                 {       
                   html+=tableLine(_game[i].id,_game);   

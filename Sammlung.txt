@@ -42,6 +42,13 @@
 504;Trinity Trigger;Switch;0;;;;Complete
 505;Mercenaries Saga Chronicles;Switch;0;;;;Complete
 506;Wizadry Proving Grounds of the mad Overlord;Switch;0;;;;Complete
+507;Crymachina;Switch;0;;;;Complete
+508;Rainworld;Switch;0;;;;Complete (LTR)
+509;Dragon Quest 3 HD 2D Remake;Switch;0;;;;Complete
+510;Hack GU Last Recode;Switch;0;;;;Complete
+511;Tokyo Xanadu eX;Switch;0;;;;Complete
+512;Monster Sanctuary;Switch;0;;;;Complete
+513;Fantasian Neo Dimension;Switch;0;;;;Complete
 180;Legend of Mana;Playstation 1;2;;Mana;;Complete
 181;Live A Live;Switch;0;;;;Complete
 182;Lollipop Chainsaw;XBOX 360;0;;;;Complete

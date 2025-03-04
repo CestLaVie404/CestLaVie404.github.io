@@ -1,5 +1,155 @@
 
-[   
+[  
+  {
+    "name": "Breath of Fire 4",
+    "plattform": "Playstation",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete/Hülle Schäden"
+  },    
+  {
+    "name": "The Granstream Sage",
+    "plattform": "Playstation",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Xenoblade Chronicles X",
+    "plattform": "WiiU",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Dragon Quest Swords Die maskierte Königin und der Spiegelturm",
+    "plattform": "Wii",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Shin Megami Tensei Digital Devil Saga",
+    "plattform": "Playstaion 2",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+  "name": "Shiren The Wanderer The Tower of Fortune and the Dice of Fate",
+  "plattform": "Switch",
+  "rCode": 0,
+  "releaseDate": "N/A","id": 0,"infotext": "Complete"
+}, 
+  {
+    "name": "The Legend of Heroes Trials Through Daybreak 2",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Stories from Sol The Gun-Dog",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete Starship Edition"
+  }, 
+  {
+    "name": "Ys Memoire The Oaach in Felghana",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Tales of Graces F Remastered",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Romancing SaGa 3",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete Switch Version"
+  }, 
+  {
+    "name": "Romancing SaGa 1 Revenge of the Seven",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete "
+  }, 
+  {
+    "name": "Romancing SaGa 1 Minstrel Song Remastered",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete "
+  }, 
+  {
+    "name": "Atelier Lulua The Scion of Arland",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete "
+  }, 
+  {
+    "name": "Seven Pirates H",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete "
+  }, 
+  {
+    "name": "Final Fantasy X X2 HD Remastered",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete "
+  }, 
+  {
+    "name": "The Last Story",
+    "plattform": "Wii",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete "
+  }, 
+  {
+    "name": "Valkyria Chronicles Remastered",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete LRG"
+  }, 
+  {
+    "name": "Dragon Quest 3 HD 2D Remake",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": ".hack GU Last Recode",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Tokyo Xanadu eX",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Monster Sanctuary",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Fantasian Neo Dimension",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Rainworld",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
+  {
+    "name": "Crymachina",
+    "plattform": "Switch",
+    "rCode": 0,
+    "releaseDate": "N/A","id": 0,"infotext": "Complete"
+  }, 
   {
     "name": "Ys IX Montrum Nox Pact Edition",
     "plattform": "Switch",

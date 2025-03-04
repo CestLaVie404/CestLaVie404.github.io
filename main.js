@@ -49,8 +49,8 @@ let UniqueReihe= new Set();
 //---------------------------------------------------------------------------
 
 
-//createList();
-createListFromCSV();
+createList();
+//createListFromCSV();
 
 function createListFromCSV ()
 {
